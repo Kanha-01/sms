@@ -13,5 +13,5 @@ app.use(bodyParser.urlencoded ({extended: true}));
 
 
 app.listen(process.env.PORT || 3000, function () {
-    console.log("server is running at port 3000 punya randi/");
+    console.log("server is running at port 3000 /");
 });
